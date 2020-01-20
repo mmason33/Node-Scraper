@@ -1,4 +1,5 @@
-module.exports = [
+module.exports = 
+[
     'http://bulldogdrummond.com/blog/0-to-500-million-lessons-from-yeti',
     'http://bulldogdrummond.com/blog/10-reasons-to-reposition-your-brand',
     'http://bulldogdrummond.com/blog/10-resolute-ideas-to-start-the-new-year',
